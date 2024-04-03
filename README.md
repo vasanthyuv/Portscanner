@@ -14,11 +14,11 @@ Navigate to the project directory:
 
 
 
-cd port-scanner
+cd Portscanner
 
 Run the script:
 
-bash
+
 
     python3 scanner.py <ip_address>
 
@@ -26,7 +26,7 @@ bash
 
 Example
 
-bash
+
 
 python3 scanner.py 127.0.0.1
 
