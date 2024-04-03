@@ -12,7 +12,7 @@ git clone https://github.com/your_username/port-scanner.git
 
 Navigate to the project directory:
 
-bash
+
 
 cd port-scanner
 
