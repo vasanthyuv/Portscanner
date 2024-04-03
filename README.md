@@ -4,9 +4,9 @@ Description
 This is a simple port scanner tool written in Python. It allows users to scan a target IP address for open ports within a specified range. The tool displays information about open ports, including their numbers and statuses.
 Usage
 
-    Clone the repository:
+    Clone the repository:https://github.com/your_username/port-scanner.git
 
-    bash
+    
 
 git clone https://github.com/your_username/port-scanner.git
 
